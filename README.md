@@ -41,20 +41,15 @@ BCA '27 @ Techno India Salt Lake
 
 <br/>
 
-#### Commit Habits & ISO Calendar
-<img src="./metrics.plugin.habits.charts.svg" alt="Habits Charts" width="48%" />
+#### ISO Calendar & Commit Habits
 <img src="./metrics.plugin.isocalendar.fullyear.svg" alt="Full Year ISO Calendar" width="48%" />
+<img src="./metrics.plugin.habits.charts.svg" alt="Habits Charts" width="48%" />
 
 <br/>
 
-#### Problem Solving & 3D Skyline
+#### Languages & Problem Solving
+<img src="./metrics.plugin.languages.svg" alt="Most Used Languages" width="48%" />
 <img src="./metrics.plugin.leetcode.svg" alt="LeetCode Stats" width="48%" />
-<img src="./metrics.plugin.skyline.svg" alt="GitHub Skyline" width="48%" />
-
-<br/>
-
-#### Full Activity Calendar
-<img src="./metrics.plugin.calendar.full.svg" alt="Full History Calendar" width="100%" />
 
 </div>
 
