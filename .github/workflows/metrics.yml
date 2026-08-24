@@ -28,27 +28,19 @@ jobs:
           plugin_habits: yes
           plugin_habits_facts: no
           plugin_habits_charts: yes
-          config_timezone: Asia/Kolkata
+          config_timezone: Europe/Paris
 
-      - name: Full history calendar
+      - name: Most used languages
         uses: lowlighter/metrics@latest
         with:
-          filename: metrics.plugin.calendar.full.svg
+          filename: metrics.plugin.languages.svg
           token: ${{ secrets.METRICS_TOKEN }}
           base: ""
-          plugin_calendar: yes
-          plugin_calendar_limit: 0
-
-      - name: GitHub Skyline
-        uses: lowlighter/metrics@latest
-        with:
-          filename: metrics.plugin.skyline.svg
-          token: NOT_NEEDED
-          base: ""
-          plugin_skyline: yes
-          plugin_skyline_year: 2026
-          plugin_skyline_frames: 6
-          plugin_skyline_quality: 1
+          plugin_languages: yes
+          plugin_languages_ignored: >-
+            html, css, tex, less, dockerfile, makefile, qmake, lex, cmake, shell,
+            gnuplot
+          plugin_languages_limit: 4
 
       - name: LeetCode
         uses: lowlighter/metrics@latest
@@ -57,5 +49,5 @@ jobs:
           token: NOT_NEEDED
           base: ""
           plugin_leetcode: yes
-          plugin_leetcode_user: RizwanMolla
+          plugin_leetcode_user: rizwan_molla
           plugin_leetcode_sections: solved, skills, recent
