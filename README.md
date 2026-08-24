@@ -47,8 +47,8 @@ BCA '27 @ Techno India Salt Lake
 
 <br/>
 
-#### Languages & Problem Solving
-<img src="./metrics.plugin.languages.svg" alt="Most Used Languages" width="48%" />
+#### In-depth Code Analysis & LeetCode
+<img src="./metrics.plugin.languages.indepth.svg" alt="In-depth Language Analysis" width="48%" />
 <img src="./metrics.plugin.leetcode.svg" alt="LeetCode Stats" width="48%" />
 
 </div>
