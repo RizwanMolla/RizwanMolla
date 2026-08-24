@@ -1,24 +1,65 @@
-# 👋 Hi there! I'm Md Rizwan Molla
-BCA'27@Techno India Salt Lake <br>|| Aspiring Software Developer || AI & ML Enthusiast || Tech Explorer ||
+<div align="center">
 
+# Hi, I'm Md Rizwan Molla
 
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/rizwan.molla) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/rizwan-molla) [![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white)](https://reddit.com/user/Rizwan_Molla) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/md-rizwan-molla) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/MdRizwanMolla) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:rizwanmolla711410@gmail.com)  
+**Software Developer • AI & ML Enthusiast • CS Student**
 
-# 💻 Tech Stack:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Bash Script](https://img.shields.io/badge/bash_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![Chakra](https://img.shields.io/badge/chakra-%234ED1C5.svg?style=for-the-badge&logo=chakraui&logoColor=white) ![DaisyUI](https://img.shields.io/badge/daisyui-5A0EF8?style=for-the-badge&logo=daisyui&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![Green Sock](https://img.shields.io/badge/green%20sock-88CE02?style=for-the-badge&logo=greensock&logoColor=white) ![Nodemon](https://img.shields.io/badge/NODEMON-%23323330.svg?style=for-the-badge&logo=nodemon&logoColor=%BBDEAD) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white) ![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white) ![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![Three js](https://img.shields.io/badge/threejs-black?style=for-the-badge&logo=three.js&logoColor=white) ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white) ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) ![Unity](https://img.shields.io/badge/unity-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white)
+BCA '27 @ Techno India Salt Lake
 
-# 📊 GitHub Stats:
+[![](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/rizwan-molla)
+[![](https://img.shields.io/badge/X-000000?style=flat-square&logo=x&logoColor=white)](https://x.com/MdRizwanMolla)
+[![](https://img.shields.io/badge/Stack_Overflow-FE7A16?style=flat-square&logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/md-rizwan-molla)
+[![](https://img.shields.io/badge/Reddit-FF4500?style=flat-square&logo=reddit&logoColor=white)](https://reddit.com/user/Rizwan_Molla)
+[![](https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://instagram.com/rizwan.molla)
+[![](https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:rizwanmolla711410@gmail.com)
+
+</div>
+
+---
+
+### 💻 Core Tech Stack
+
+| Domain | Technologies |
+| :--- | :--- |
+| **Languages** | ![](https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white) ![](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white) ![](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white) ![](https://img.shields.io/badge/Python-3670A0?style=flat-square&logo=python&logoColor=ffdd54) ![](https://img.shields.io/badge/JavaScript-323330?style=flat-square&logo=javascript&logoColor=F7DF1E) ![](https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white) ![](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white) ![](https://img.shields.io/badge/Bash-121011?style=flat-square&logo=gnu-bash&logoColor=white) |
+| **Frontend** | ![](https://img.shields.io/badge/React-20232a?style=flat-square&logo=react&logoColor=61DAFB) ![](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white) ![](https://img.shields.io/badge/TailwindCSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white) ![](https://img.shields.io/badge/Bootstrap-8511FA?style=flat-square&logo=bootstrap&logoColor=white) ![](https://img.shields.io/badge/DaisyUI-5A0EF8?style=flat-square&logo=daisyui&logoColor=white) ![](https://img.shields.io/badge/Chakra_UI-4ED1C5?style=flat-square&logo=chakraui&logoColor=white) ![](https://img.shields.io/badge/GSAP-88CE02?style=flat-square&logo=greensock&logoColor=white) ![](https://img.shields.io/badge/Three.js-000000?style=flat-square&logo=three.js&logoColor=white) |
+| **Backend & DB** | ![](https://img.shields.io/badge/Node.js-6DA55F?style=flat-square&logo=node.js&logoColor=white) ![](https://img.shields.io/badge/Express.js-404d59?style=flat-square&logo=express&logoColor=61DAFB) ![](https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white) ![](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white) ![](https://img.shields.io/badge/MongoDB-4ea94b?style=flat-square&logo=mongodb&logoColor=white) ![](https://img.shields.io/badge/Nginx-009639?style=flat-square&logo=nginx&logoColor=white) |
+| **Tools & Env** | ![](https://img.shields.io/badge/Git-F05033?style=flat-square&logo=git&logoColor=white) ![](https://img.shields.io/badge/GitHub-121011?style=flat-square&logo=github&logoColor=white) ![](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white) ![](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white) ![](https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white) ![](https://img.shields.io/badge/NPM-CB3837?style=flat-square&logo=npm&logoColor=white) ![](https://img.shields.io/badge/Unity-000000?style=flat-square&logo=unity&logoColor=white) |
+
+---
+
+### 📊 Activity & Metrics
+
+<div align="center">
+
+#### Contribution Snake
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/RizwanMolla/RizwanMolla/output/github-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/RizwanMolla/RizwanMolla/output/github-snake.svg" />
-  <img alt="github-snake" src="https://raw.githubusercontent.com/RizwanMolla/RizwanMolla/output/github-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/RizwanMolla/RizwanMolla/output/github-snake.svg" width="100%" />
 </picture>
 
+<br/>
 
-![](https://github-readme-streak-stats.herokuapp.com/?user=RizwanMolla&theme=gotham&hide_border=true)<br/>
+#### Commit Habits & ISO Calendar
+<img src="./metrics.plugin.habits.charts.svg" alt="Habits Charts" width="48%" />
+<img src="./metrics.plugin.isocalendar.fullyear.svg" alt="Full Year ISO Calendar" width="48%" />
 
+<br/>
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=RizwanMolla&theme=dracula&no-frame=true&no-bg=false&margin-w=4)
+#### Problem Solving & 3D Skyline
+<img src="./metrics.plugin.leetcode.svg" alt="LeetCode Stats" width="48%" />
+<img src="./metrics.plugin.skyline.svg" alt="GitHub Skyline" width="48%" />
+
+<br/>
+
+#### Full Activity Calendar
+<img src="./metrics.plugin.calendar.full.svg" alt="Full History Calendar" width="100%" />
+
+</div>
+
 ---
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=RizwanMolla&theme=gotham&hide_border=true" alt="GitHub Streak" />
+</div>
