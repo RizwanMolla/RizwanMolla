@@ -41,25 +41,15 @@ BCA '27 @ Techno India Salt Lake
 
 <br/>
 
-#### ISO Contributions Calendar
-<img src="./metrics.plugin.isocalendar.fullyear.svg" alt="Full Year ISO Calendar" width="100%" />
+#### Activity & Problem Solving
+<img src="./metrics.plugin.isocalendar.fullyear.svg" alt="Full Year ISO Calendar" width="48%" />
+<img src="./metrics.plugin.leetcode.svg" alt="LeetCode Stats" width="48%" />
 
 <br/>
 
-#### In-depth Code Analysis & LeetCode
+#### Language Breakdown & Commit Streak
 <img src="./metrics.plugin.languages.indepth.svg" alt="In-depth Language Analysis" width="48%" />
-<img src="./metrics.plugin.leetcode.svg" alt="LeetCode Stats" width="48%" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=RizwanMolla&theme=gotham&hide_border=true" alt="GitHub Streak" width="48%" />
 
 </div>
 
----
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=RizwanMolla&theme=gotham&hide_border=true" alt="GitHub Streak" />
-</div>
-
----
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=RizwanMolla&theme=gotham&hide_border=true" alt="GitHub Streak" />
-</div>
