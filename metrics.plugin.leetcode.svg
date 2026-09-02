@@ -19,9 +19,9 @@
                             <div class="category column">
                                 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 120 120" width="50" height="50" class="gauge all">
                                     <circle class="gauge-base" r="53" cx="60" cy="60"/>
-                                    <circle class="gauge-arc" transform="rotate(-90 60 60)" r="53" cx="60" cy="60" stroke-dasharray="56.502350903241776 329"/>
-                                    <text x="60" y="50" dominant-baseline="central">694</text>
-                                    <text x="60" y="80" dominant-baseline="central" class="secondary">/4041</text>
+                                    <circle class="gauge-arc" transform="rotate(-90 60 60)" r="53" cx="60" cy="60" stroke-dasharray="56.56976744186046 329"/>
+                                    <text x="60" y="50" dominant-baseline="central">695</text>
+                                    <text x="60" y="80" dominant-baseline="central" class="secondary">/4042</text>
                                 </svg>
                                 <span class="title">All</span>
                             </div>
@@ -37,8 +37,8 @@
                             <div class="category column">
                                 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 120 120" width="50" height="50" class="gauge medium">
                                     <circle class="gauge-base" r="53" cx="60" cy="60"/>
-                                    <circle class="gauge-arc" transform="rotate(-90 60 60)" r="53" cx="60" cy="60" stroke-dasharray="56.93930772878141 329"/>
-                                    <text x="60" y="50" dominant-baseline="central">365</text>
+                                    <circle class="gauge-arc" transform="rotate(-90 60 60)" r="53" cx="60" cy="60" stroke-dasharray="57.095305832147936 329"/>
+                                    <text x="60" y="50" dominant-baseline="central">366</text>
                                     <text x="60" y="80" dominant-baseline="central" class="secondary">/2109</text>
                                 </svg>
                                 <span class="title">Medium</span>
@@ -46,9 +46,9 @@
                             <div class="category column">
                                 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 120 120" width="50" height="50" class="gauge hard">
                                     <circle class="gauge-base" r="53" cx="60" cy="60"/>
-                                    <circle class="gauge-arc" transform="rotate(-90 60 60)" r="53" cx="60" cy="60" stroke-dasharray="46.46701030927835 329"/>
+                                    <circle class="gauge-arc" transform="rotate(-90 60 60)" r="53" cx="60" cy="60" stroke-dasharray="46.41915550978373 329"/>
                                     <text x="60" y="50" dominant-baseline="central">137</text>
-                                    <text x="60" y="80" dominant-baseline="central" class="secondary">/970</text>
+                                    <text x="60" y="80" dominant-baseline="central" class="secondary">/971</text>
                                 </svg>
                                 <span class="title">Hard</span>
                             </div>
@@ -63,16 +63,16 @@
                         Skills
                     </h2>
                     <div class="topics">
-                        <div class="label fundamental"><span class="dot">⬤</span> Array <span class="count">x452</span></div>
+                        <div class="label fundamental"><span class="dot">⬤</span> Array <span class="count">x453</span></div>
                         <div class="label fundamental"><span class="dot">⬤</span> String <span class="count">x161</span></div>
-                        <div class="label intermediate"><span class="dot">⬤</span> Hash Table <span class="count">x154</span></div>
+                        <div class="label intermediate"><span class="dot">⬤</span> Hash Table <span class="count">x155</span></div>
                         <div class="label intermediate"><span class="dot">⬤</span> Math <span class="count">x147</span></div>
                         <div class="label advanced"><span class="dot">⬤</span> Dynamic Programming <span class="count">x117</span></div>
                         <div class="label fundamental"><span class="dot">⬤</span> Sorting <span class="count">x99</span></div>
                         <div class="label intermediate"><span class="dot">⬤</span> Greedy <span class="count">x90</span></div>
                         <div class="label intermediate"><span class="dot">⬤</span> Binary Search <span class="count">x73</span></div>
-                        <div class="label fundamental"><span class="dot">⬤</span> Matrix <span class="count">x71</span></div>
-                        <div class="label intermediate"><span class="dot">⬤</span> Bit Manipulation <span class="count">x58</span></div>
+                        <div class="label fundamental"><span class="dot">⬤</span> Matrix <span class="count">x72</span></div>
+                        <div class="label intermediate"><span class="dot">⬤</span> Bit Manipulation <span class="count">x59</span></div>
                     </div>
                 </section>
                 <section class="leetcode subsection">
@@ -87,8 +87,8 @@
                             <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                         </svg>
                         <div class="infos">
-                            <div class="title">Find the Minimum and Maximum Number of Nodes Between Critical Points</div>
-                            <div class="date">31 Aug 2026</div>
+                            <div class="title">Minimum Moves to Clean the Classroom</div>
+                            <div class="date">1 Sept 2026</div>
                         </div>
                     </div>
                     <div class="field">
@@ -96,8 +96,8 @@
                             <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                         </svg>
                         <div class="infos">
-                            <div class="title">Removing Minimum and Maximum From Array</div>
-                            <div class="date">30 Aug 2026</div>
+                            <div class="title">Find the Minimum and Maximum Number of Nodes Between Critical Points</div>
+                            <div class="date">31 Aug 2026</div>
                         </div>
                     </div>
                 </section>
